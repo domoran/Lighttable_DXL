@@ -1,0 +1,6 @@
+{:name "DOORS DXL"
+ :version "0.0.1"
+ :author "Mathias Mamsch"
+ :source ""
+ :desc "IBM Rational DOORS DXL programming for lighttable"
+ :behaviors "dxl_plugin.behaviors"}

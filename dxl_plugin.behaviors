@@ -1,0 +1,4 @@
+[
+ [:app :lt.objs.plugins/load-js "dxl_plugin_compiled.js"]
+ [:dxl-plugin.hello :lt.plugins.dxl-plugin/on-close-destroy]
+ ]
